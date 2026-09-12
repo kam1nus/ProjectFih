@@ -48,7 +48,7 @@
 ### Заброс и леска
 
 <p align="center">
-  <img src="Screen Recording 2026-09-12 at 13.24.40.mov"
+  <img src="Screen Recording 2026-09-12 at 13.24.40 (video-converter.com).gif"
        alt="ProjectFih — работающая система заброса и лески"
        width="85%">
 </p>
