@@ -92,7 +92,7 @@ ProjectFih задуман как игра с поддержкой коопера
 - переход к состоянию подмотки.
 
 <p align="center">
-  <img src="Docs/Media/casting-demo.gif"
+  <img src="Screen Recording 2026-09-12 at 13.24.40 (video-converter.com).gif"
        alt="ProjectFih — система заброса"
        width="85%">
 </p>
