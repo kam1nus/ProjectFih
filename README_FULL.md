@@ -1,7 +1,7 @@
 # ProjectFih 🎣
 
 <p align="center">
-  <img src="Docs/Images/home-location.png"
+  <img src="Prerender_Home_location_beta.png"
        alt="ProjectFih — визуальный концепт основной локации"
        width="100%">
 </p>
@@ -156,7 +156,7 @@ ProjectFih задуман как игра с поддержкой коопера
 # Будущая основная локация
 
 <p align="center">
-  <img src="Docs/Images/home-location.png"
+  <img src="Prerender_Home_location_beta.png"
        alt="ProjectFih — концепт дома, мастерской и пруда"
        width="100%">
 </p>
@@ -198,7 +198,7 @@ ProjectFih задуман как игра с поддержкой коопера
 # Рыбы
 
 <p align="center">
-  <img src="Docs/Images/fish-collection.png"
+  <img src="Fish set 0.1.png"
        alt="ProjectFih — визуальные концепты рыб"
        width="100%">
 </p>
