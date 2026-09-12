@@ -133,7 +133,7 @@ ProjectFih развивается в стиле:
 Для прототипирования 3D-моделей я использую **Mint.gg**.
 
 <p align="center">
-  <img src="Docs/Images/mint-3d-map.png"
+  <img src="River_3d_mint.gg.png"
        alt="ProjectFih — работа с 3D в Mint.gg"
        width="90%">
 </p>
