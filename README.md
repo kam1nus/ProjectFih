@@ -3,7 +3,7 @@
 **ProjectFih** — мой игровой проект на Unity 6: рыболовный sandbox с крафтом, исследованием и упором на создание собственных снастей и приманок.
 
 <p align="center">
-  <img src="Docs/Images/home-location.png"
+  <img src="Prerender_Home_location_beta.png"
        alt="ProjectFih — визуальный концепт основной локации"
        width="100%">
 </p>
@@ -72,7 +72,7 @@ ProjectFih развивается в стиле:
 - спокойная атмосфера загородной рыбалки.
 
 <p align="center">
-  <img src="Docs/Images/fish-collection.png"
+  <img src="Fish set 0.1.png"
        alt="ProjectFih — визуальные концепты рыб"
        width="100%">
 </p>
