@@ -505,7 +505,7 @@ ProjectFih задуман как игра с поддержкой коопера
 Для прототипирования моделей я использую **Mint.gg**.
 
 <p align="center">
-  <img src="Docs/Images/mint-3d-map.png"
+  <img src="River_3d_mint.gg.png"
        alt="ProjectFih — работа с 3D в Mint.gg"
        width="90%">
 </p>
